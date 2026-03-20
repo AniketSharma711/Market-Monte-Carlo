@@ -1,0 +1,8 @@
+numpy
+pycuda
+opencv-python
+google-genai
+matplotlib  
+jupyter
+streamlit
+plotly
